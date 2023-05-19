@@ -25,13 +25,3 @@ In Q3 Sales is decreasing most, so try to put ads, Coupons or discount on that t
 
 
 Top selling Category is Set where women customer is 59 % and male is 41 %, try to cross sell those customers with another category also.
-
-
-
-
-
-
-
-
-
-![image](https://github.com/souravroy1997/Excel_Data_Science_Project/assets/134044791/6e7bc548-dc5f-4505-870e-83ad60a51d48)
