@@ -13,7 +13,11 @@ Sample Business Problems
 
 
 ![image](https://github.com/souravroy1997/Excel_Data_Science_Project/assets/134044791/08d5f028-9821-4828-be2d-df22c83918be)
+
+
 How Vrinda Store Can Improve Sales ? 
+
+
 Target Women customer of age group ( 30-49 yrs) living  in Maharashtra, Karnataka and Uttar Pradesh by showing  adds or offering coupons/ discounts available on Amazon, Flipkart, and Myntra.
 
 
